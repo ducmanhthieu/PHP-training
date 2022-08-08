@@ -128,7 +128,7 @@ if( isset($_POST['username'])) {
 
 <a name="4"></a>
 ## IV. Chức năng comment
--Đây là chức năng cho phép mọi người comment vào trang web. Thông tin của người comment bao gồm `Name`, `Email` và cả `Comment` sẽ được thêm vào CSDL 
+-Đây là chức năng cho phép mọi người comment vào trang blog. Thông tin của người comment bao gồm `Name`, `Email` và cả `Comment` sẽ được thêm vào CSDL 
 #### Màn hình comment:
 ![image](https://user-images.githubusercontent.com/68129667/183437427-767b2ae2-2c5a-4062-bca3-4a94675d5388.png)
 
