@@ -50,6 +50,19 @@ else{
 
 <a name="2"></a>
 ## II. Chức năng đăng ký/đăng nhập cho người dùng
+#### Màn hình đăng ký:
+
+![image](https://user-images.githubusercontent.com/68129667/183421615-eb87ba37-f47d-4dca-be4e-bacd0e7023d7.png)
+-Với chức năng đăng ký, khi người dùng nhập đủ thông tin và nhấn `Đăng ký` thì thông tin về `Tên người dùng` và `Mật khẩu` 
+sẽ được thêm vào CSDL của trang web.
+![image](https://user-images.githubusercontent.com/68129667/183423298-894abee1-9f89-4510-af5f-0f4d8e37c196.png)
+-Đã thêm thông tin về user vào database
+![image](https://user-images.githubusercontent.com/68129667/183423500-ebf3b800-541e-436b-8ff6-5a0c2a8b32e3.png)
+
+#### Màn hình đăng nhập:
+
+![image](https://user-images.githubusercontent.com/68129667/183421819-df210fef-5152-4d93-bca1-9a77b10940be.png)
+
 
 <a name="3"></a>
 ## III. Chức năng tìm kiếm 
